@@ -56,10 +56,9 @@ height:100px;
 .fi_bt {
 color: #fffc00;
 display: block;
-height: 90px;
-width: 970px;
-font-size: 18px;
-font-weight: 600;
+width: 100%;
+z-index: 10;
+height:100px;
 margin: 0 0 3px;
 text-align: center;
 }
