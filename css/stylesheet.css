@@ -11,6 +11,11 @@ body{
 	width: 100%;
 	position: absolute; 
 }
+.top-banner {
+  margin-bottom: 30px;
+  text-align: center;
+  background-color:transparent;
+}
 .form-box{
 	width: 380px;
 	height: 480px;
